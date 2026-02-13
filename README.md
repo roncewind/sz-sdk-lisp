@@ -8,6 +8,8 @@ access to all Senzing subsystems.
 
 **License:** Apache-2.0 | **Version:** 0.1.0
 
+<br clear="right">
+
 ## Features
 
 - Full coverage of all 5 Senzing components: Engine, Product, Config, Config
