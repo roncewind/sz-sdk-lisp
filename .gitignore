@@ -1,0 +1,44 @@
+# Common Lisp compiled files
+*.fasl
+*.lx64fsl
+*.dx64fsl
+*.lx32fsl
+*.dx32fsl
+*.x86f
+*.sparcf
+*.sparc64f
+*.hpf
+*.pfsl
+*.dfsl
+*.p64fsl
+*.d64fsl
+*.wx64fsl
+*.wx32fsl
+*.ufsl
+*.abcl
+*.lib
+*.fas
+*.sse2f
+
+# ASDF cache
+~/.cache/common-lisp/
+
+# Object files
+*.o
+*.so
+*.dylib
+
+# Editor backup/temp files
+*~
+\#*\#
+.\#*
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
